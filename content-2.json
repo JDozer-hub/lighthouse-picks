@@ -1,0 +1,220 @@
+{"posts":[
+{
+ "slug":"best-cheap-standing-desk",
+ "title":"Best cheap standing desk (and the spec that decides whether it wobbles)",
+ "summary":"Lift mechanism, weight capacity and the wobble test: choosing a budget sit-stand desk that is actually usable.",
+ "intro":[
+  "Budget standing desks fail at the same point: they wobble at standing height. A desk that shakes while you type gets lowered once and never raised again.",
+  "The variables that decide it are the frame type, the capacity rating and the width — not the number of memory presets."
+ ],
+ "shortlist":[
+  {"title":"Two-leg electric sit-stand desk, 120 cm","tag":"Best budget pick",
+   "who":"A single monitor, a laptop and a keyboard, in a room with a standard-width space.",
+   "choose_if":"you want electric height adjustment at the lowest sensible price and can keep the load light.",
+   "band":"$180–300 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=electric+standing+desk+120cm"},
+  {"title":"Four-leg or T-frame desk, heavier duty","tag":"Best if you notice wobble",
+   "who":"People with two monitors, or anyone who has already returned a wobbly desk.",
+   "choose_if":"you want noticeably less movement at standing height and can spend more and wait for stock.",
+   "band":"$300–550 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=four+leg+standing+desk"},
+  {"title":"Manual crank sit-stand desk","tag":"Best if you rarely change height",
+   "who":"People who will set a height once and leave it.",
+   "choose_if":"you want the lowest price and the fewest parts to fail, and do not mind winding it.",
+   "band":"$120–220 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=manual+crank+standing+desk"}
+ ],
+ "table_cols":["Option","Best for","Typical price band","Where"],
+ "table":[
+  ["Two-leg electric, 120 cm","Light loads, lowest electric price","$180–300 (verify)","<a href=\"https://www.amazon.com/s?k=electric+standing+desk\" rel=\"nofollow\">Amazon</a>"],
+  ["Four-leg / T-frame","Two monitors, minimal wobble","$300–550 (verify)","<a href=\"https://www.amazon.com/s?k=four+leg+standing+desk\" rel=\"nofollow\">Amazon</a>"],
+  ["Manual crank","Set once and forget","$120–220 (verify)","<a href=\"https://www.walmart.com/search?q=manual+standing+desk\" rel=\"nofollow\">Walmart</a>"],
+  ["Desk top only, frame separately","Matching a top to your own space","$60–200 (verify)","<a href=\"https://www.wayfair.com/keyword.php?keyword=standing+desk+top\" rel=\"nofollow\">Wayfair</a>"],
+  ["Refurbished commercial desk","Ex-office quality for less","40-60% below new (verify)","<a href=\"https://www.ebay.com/sch/i.html?_nkw=refurbished+standing+desk\" rel=\"nofollow\">eBay</a>"]
+ ],
+ "skip":[
+  {"what":"Judging a desk by its weight capacity alone","why":"Capacity tells you what it will lift, not how stable it is when raised. A desk rated for 80 kg can still wobble under a 6 kg monitor because the frame is thin."},
+  {"what":"A very wide top on a two-leg frame","why":"Wobble scales with width and height. Beyond roughly 140 cm, a two-leg frame starts to feel unstable at standing height — that is when a T-frame or four legs is the answer."},
+  {"what":"Paying extra for app control and many presets","why":"Two presets (sit and stand) is all anyone uses. The premium goes into electronics rather than the frame, which is where the money needs to be."}
+ ],
+ "decide":[
+  "Measure your seated and standing elbow heights, then check the desk's height range covers both.",
+  "One monitor? Two-leg is usually fine.",
+  "Two monitors or an existing wobble complaint? Go T-frame or four-leg.",
+  "Never change height? A manual crank saves money and has less to break."
+ ],
+ "outro":"Assemble on a hard floor, not carpet — a wobbly desk on carpet is often just an uneven base. Retighten the frame bolts after the first week of use.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"best-dehumidifier-for-a-basement",
+ "title":"Best dehumidifier for a basement (and how to size it properly)",
+ "summary":"Pint capacity, temperature range and drainage: sizing a dehumidifier for a basement rather than guessing.",
+ "intro":[
+  "Dehumidifiers are sold by pint capacity per day, and buying the wrong size is the most common mistake in both directions: too small never dries the space, too large cycles constantly and wastes power.",
+  "Basements add two extra constraints: they are colder than the rest of the house, and they usually have a drain you can use instead of emptying a tank."
+ ],
+ "shortlist":[
+  {"title":"30-pint dehumidifier with continuous drain","tag":"Best for most basements",
+   "who":"Damp basements up to roughly 60 m² with a floor drain or a sink nearby.",
+   "choose_if":"you want to set it and forget it, with a hose rather than a tank.",
+   "band":"$180–280 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=30+pint+dehumidifier"},
+  {"title":"20-pint dehumidifier, compact","tag":"Best for small or mildly damp spaces",
+   "who":"Cellars, crawl spaces and small basements with light damp.",
+   "choose_if":"the space is small and you do not want a large unit taking up floor.",
+   "band":"$130–220 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=20+pint+dehumidifier"},
+  {"title":"50-pint dehumidifier","tag":"Best for genuinely wet basements",
+   "who":"Basements with visible damp, a history of flooding, or laundry drying indoors.",
+   "choose_if":"you have a real moisture problem and the space is large.",
+   "band":"$250–400 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=50+pint+dehumidifier"}
+ ],
+ "table_cols":["Option","Best for","Typical price band","Where"],
+ "table":[
+  ["20-pint, compact","Small cellar, light damp","$130–220 (verify)","<a href=\"https://www.amazon.com/s?k=20+pint+dehumidifier\" rel=\"nofollow\">Amazon</a>"],
+  ["30-pint with drain hose","Most basements — the default choice","$180–280 (verify)","<a href=\"https://www.amazon.com/s?k=30+pint+dehumidifier\" rel=\"nofollow\">Amazon</a>"],
+  ["50-pint","Large or genuinely wet basements","$250–400 (verify)","<a href=\"https://www.walmart.com/search?q=50+pint+dehumidifier\" rel=\"nofollow\">Walmart</a>"],
+  ["Refurbished unit","Same capacity for less","30-50% below new (verify)","<a href=\"https://www.ebay.com/sch/i.html?_nkw=refurbished+dehumidifier\" rel=\"nofollow\">eBay</a>"]
+ ],
+ "skip":[
+  {"what":"Sizing a cold basement using a warm-room rule of thumb","why":"Most refrigerant dehumidifiers lose efficiency sharply below about 15°C and can frost up. A cold basement may need a desiccant type instead — check the operating temperature range before buying, not after."},
+  {"what":"A unit with no continuous drain option","why":"In a basement you will be emptying a tank every day in a wet spell, and the first time you forget, the tank overflows. A hose to a drain is the difference between a dehumidifier you keep and one you abandon."},
+  {"what":"Buying the largest unit 'to be safe'","why":"An oversized unit short-cycles, which removes less water overall than a correctly sized one running steadily, and uses more electricity doing it."}
+ ],
+ "decide":[
+  "Measure floor area and note the temperature range of the basement.",
+  "Below about 15°C most of the time? Look at desiccant models rather than refrigerant.",
+  "Is there a floor drain or sink? If yes, buy a unit with a continuous drain hose.",
+  "Light damp up to ~60 m²? 30-pint is the sensible default."
+ ],
+ "outro":"A dehumidifier treats the symptom. If the basement has a persistent damp smell or efflorescence on the walls, the cause is usually drainage or waterproofing outside, and no dehumidifier fixes that.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"best-electric-kettle-for-tea",
+ "title":"Best electric kettle for tea (and the temperature feature worth having)",
+ "summary":"Variable temperature, spout shape and capacity: choosing a kettle for tea rather than for speed.",
+ "intro":[
+  "If you drink black tea and want it fast, almost any kettle works. If you drink green, white or oolong tea, water temperature is the whole game — boiling water scalds them and turns them bitter.",
+  "So the decision is really: do you need variable temperature, and how precise does it need to be?"
+ ],
+ "shortlist":[
+  {"title":"Variable-temperature kettle with selectable presets","tag":"Best for tea drinkers",
+   "who":"Anyone brewing green, white or oolong tea regularly.",
+   "choose_if":"you want repeatable temperatures without watching a thermometer.",
+   "band":"$60–120 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=variable+temperature+electric+kettle"},
+  {"title":"Gooseneck variable-temperature kettle","tag":"Best for pour-over coffee and delicate tea",
+   "who":"People pouring slowly and precisely, usually for pour-over coffee.",
+   "choose_if":"you want a controlled, narrow pour as well as temperature control.",
+   "band":"$70–150 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=gooseneck+electric+kettle+variable"},
+  {"title":"Basic fast-boil kettle","tag":"Cheapest that works",
+   "who":"Black tea, instant coffee, and anything that wants boiling water.",
+   "choose_if":"you only ever need boiling water and want to spend very little.",
+   "band":"$20–45 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=electric+kettle+fast+boil"}
+ ],
+ "table_cols":["Option","Best for","Typical price band","Where"],
+ "table":[
+  ["Variable temperature","Green / white / oolong tea","$60–120 (verify)","<a href=\"https://www.amazon.com/s?k=variable+temperature+kettle\" rel=\"nofollow\">Amazon</a>"],
+  ["Gooseneck variable","Pour-over coffee and delicate tea","$70–150 (verify)","<a href=\"https://www.amazon.com/s?k=gooseneck+kettle\" rel=\"nofollow\">Amazon</a>"],
+  ["Basic fast-boil","Boiling water only","$20–45 (verify)","<a href=\"https://www.walmart.com/search?q=electric+kettle\" rel=\"nofollow\">Walmart</a>"],
+  ["Stovetop whistling kettle","No electrics to fail","$25–60 (verify)","<a href=\"https://www.wayfair.com/keyword.php?keyword=stovetop+kettle\" rel=\"nofollow\">Wayfair</a>"]
+ ],
+ "skip":[
+  {"what":"A variable-temperature kettle with poor hold time","why":"If it drops back to room temperature in ten minutes, you will re-boil constantly. Check the keep-warm duration rather than the number of preset buttons."},
+  {"what":"A plastic-bodied kettle for frequent tea","why":"Plastic can retain flavours, particularly if you also boil water for other uses. Glass or stainless steel is the safer long-term choice."},
+  {"what":"Paying for temperature control when you only drink black tea","why":"Black tea wants water at or near boiling. You would be paying for a feature you never use."}
+ ],
+ "decide":[
+  "Only boiling water? Basic kettle — save the money.",
+  "Green, white or oolong tea? Variable temperature is genuinely worth it.",
+  "Pour-over coffee too? Gooseneck with variable temperature.",
+  "Check capacity against how many cups you make in one go — 1.7 L is the common default."
+ ],
+ "outro":"Temperature is the most useful variable in tea brewing, ahead of brand and ahead of brewing vessel. A cheap variable kettle beats an expensive fixed one for anything but black tea.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"best-budget-monitor-for-working-from-home",
+ "title":"Best budget monitor for working from home (and what to ignore)",
+ "summary":"Resolution, panel type and stand adjustability: what actually matters in a budget work monitor.",
+ "intro":[
+  "For desk work — documents, spreadsheets, video calls — the spec sheet fights you. Contrast ratios and response times are marketed for gaming and matter far less than text clarity and a stand you can actually adjust.",
+  "The two things worth spending on are resolution and a height-adjustable stand. Everything else is secondary."
+ ],
+ "shortlist":[
+  {"title":"24-inch 1920x1200 IPS monitor","tag":"Best for documents",
+   "who":"People working with text, spreadsheets and multiple windows all day.",
+   "choose_if":"you want the extra vertical height that 1200 gives over 1080 without going to a much larger screen.",
+   "band":"$130–220 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=24+inch+1920x1200+ips+monitor"},
+  {"title":"27-inch 2560x1440 IPS monitor","tag":"Best if you want more space",
+   "who":"People running two windows side by side without a second screen.",
+   "choose_if":"you have the desk depth for a 27-inch panel and want a sharper, larger canvas.",
+   "band":"$200–330 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=27+inch+1440p+ips+monitor"},
+  {"title":"Ultrawide 34-inch","tag":"Best replacement for two monitors",
+   "who":"People who currently run two screens and dislike the bezel in the middle.",
+   "choose_if":"you want one continuous surface and have the width for it.",
+   "band":"$300–500 typical (verify at checkout)","retailer":"Amazon","url":"https://www.amazon.com/s?k=34+inch+ultrawide+monitor"}
+ ],
+ "table_cols":["Option","Best for","Typical price band","Where"],
+ "table":[
+  ["24-inch 1920x1200 IPS","Text-dense work","$130–220 (verify)","<a href=\"https://www.amazon.com/s?k=24+inch+1200p+monitor\" rel=\"nofollow\">Amazon</a>"],
+  ["27-inch 1440p IPS","More desktop space","$200–330 (verify)","<a href=\"https://www.amazon.com/s?k=27+inch+1440p+monitor\" rel=\"nofollow\">Amazon</a>"],
+  ["34-inch ultrawide","Replacing two screens","$300–500 (verify)","<a href=\"https://www.amazon.com/s?k=34+inch+ultrawide\" rel=\"nofollow\">Amazon</a>"],
+  ["Budget 24-inch 1080p","Lowest cost, second screen","$90–150 (verify)","<a href=\"https://www.walmart.com/search?q=24+inch+monitor\" rel=\"nofollow\">Walmart</a>"],
+  ["Refurbished business monitor","Ex-office panel, height-adjustable","40-60% below new (verify)","<a href=\"https://www.ebay.com/sch/i.html?_nkw=refurbished+24+inch+monitor\" rel=\"nofollow\">eBay</a>"]
+ ],
+ "skip":[
+  {"what":"A gaming monitor for desk work","why":"High refresh rate and low response time make no difference to documents, and the money comes out of panel quality and stand adjustment — the two things that do matter here."},
+  {"what":"A curved panel under 30 inches","why":"The curve only helps at large widths where the edges would otherwise be far from your eye. On a 24 or 27-inch screen it usually just makes straight lines look slightly bowed."},
+  {"what":"A monitor with a fixed tilt-only stand","why":"Almost every complaint about neck strain traces back to a screen that cannot be raised. If the stand is not height-adjustable, budget for a VESA arm as well."}
+ ],
+ "decide":[
+  "Measure your eye height when seated, then check the stand's height range reaches it.",
+  "Text-heavy work? Prefer higher resolution and IPS, not refresh rate.",
+  "Two windows side by side? 27-inch 1440p or an ultrawide.",
+  "Stand only tilts? Add a VESA arm to the budget before you buy."
+ ],
+ "outro":"A second-hand business monitor is often the best value in this category — offices sell off height-adjustable IPS panels constantly, and they usually have better stands than new budget models.",
+ "date":"2026-10-10"
+},
+{
+ "slug":"best-refurbished-laptop-for-students",
+ "title":"Best refurbished laptop for students (and the two specs that matter)",
+ "summary":"Business-laptop refurbs, RAM and battery health: how to buy a used laptop that lasts a degree.",
+ "intro":[
+  "A refurbished ex-business laptop is usually the best value in student computing: sturdy chassis, replaceable parts, and a fraction of the price of a new consumer machine.",
+  "The trap is buying on price and ignoring two things that decide whether it lasts: the amount of RAM and the condition of the battery."
+ ],
+ "shortlist":[
+  {"title":"Ex-business 14-inch, 16 GB RAM, upgraded SSD","tag":"Best overall for students",
+   "who":"Students running a browser, documents and a video call at the same time.",
+   "choose_if":"you want a machine that will stay usable for the length of a course without being fragile.",
+   "band":"$200–400 typical (verify at checkout)","retailer":"eBay","url":"https://www.ebay.com/sch/i.html?_nkw=refurbished+business+laptop+16gb"},
+  {"title":"Ex-business 13-inch ultraportable","tag":"Best for carrying every day",
+   "who":"Students who carry a laptop to every class and care about weight.",
+   "choose_if":"you want something light and are willing to accept a smaller screen for it.",
+   "band":"$220–420 typical (verify at checkout)","retailer":"eBay","url":"https://www.ebay.com/sch/i.html?_nkw=refurbished+13+inch+ultrabook"},
+  {"title":"Refurbished 2-in-1 convertible","tag":"Best for note-taking by hand",
+   "who":"Students who write or annotate by hand in lectures.",
+   "choose_if":"you want a pen-capable screen and can accept fewer ports and harder repairs.",
+   "band":"$250–500 typical (verify at checkout)","retailer":"eBay","url":"https://www.ebay.com/sch/i.html?_nkw=refurbished+2+in+1+laptop"}
+ ],
+ "table_cols":["Option","Best for","Typical price band","Where"],
+ "table":[
+  ["Ex-business 14-inch, 16 GB","General student use, durable","$200–400 (verify)","<a href=\"https://www.ebay.com/sch/i.html?_nkw=refurbished+business+laptop\" rel=\"nofollow\">eBay</a>"],
+  ["13-inch ultraportable","Carrying daily","$220–420 (verify)","<a href=\"https://www.ebay.com/sch/i.html?_nkw=refurbished+ultrabook\" rel=\"nofollow\">eBay</a>"],
+  ["2-in-1 convertible","Handwritten notes","$250–500 (verify)","<a href=\"https://www.ebay.com/sch/i.html?_nkw=refurbished+2+in+1\" rel=\"nofollow\">eBay</a>"],
+  ["Chromebook-style budget new","Light use, warranty","$200–330 (verify)","<a href=\"https://www.walmart.com/search?q=student+laptop\" rel=\"nofollow\">Walmart</a>"],
+  ["Refurbished mainstream brand","Familiar name, comparable spec","$250–450 (verify)","<a href=\"https://www.amazon.com/s?k=refurbished+laptop+16gb\" rel=\"nofollow\">Amazon</a>"]
+ ],
+ "skip":[
+  {"what":"8 GB RAM in a machine you expect to last three years","why":"It is the first thing to become a bottleneck, and on many thin laptops it is soldered and unupgradable. 16 GB is the difference between a laptop that lasts the course and one you replace halfway."},
+  {"what":"Any refurb without a stated battery health figure","why":"A worn battery is the hidden cost that wipes out the saving. Ask for the cycle count or a battery health percentage; if the seller will not provide it, treat the battery as needing replacement."},
+  {"what":"Buying the cheapest listing from an unknown seller","why":"On ex-business machines, the difference between listings is usually whether the keyboard, screen and hinges have been checked. Seller rating and a stated returns policy matter more than a few pounds off."}
+ ],
+ "decide":[
+  "Insist on 16 GB RAM unless it is explicitly user-upgradable.",
+  "Ask for battery cycle count or health before buying.",
+  "Check the ports you need: many modern ultraportables dropped HDMI and USB-A.",
+  "Prefer ex-business chassis — they are built for daily handling and parts are easier to find."
+ ],
+ "outro":"Set a budget for a replacement battery in year two. Even a good refurb will likely need one before the course ends, and budgeting for it turns a risk into a plan.",
+ "date":"2026-10-10"
+}
+]}

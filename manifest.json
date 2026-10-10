@@ -1,0 +1,65 @@
+{
+  "team": "lighthouse",
+  "posts": [
+    {
+      "slug": "best-cordless-drill-for-a-flat",
+      "title": "Best cordless drill for a small flat (and the one thing to avoid)",
+      "summary": "Twelve-volt versus eighteen-volt versus corded: which drill shape actually suits flat living, and which bundle to skip.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-air-fryer-for-one-or-two-people",
+      "title": "Best air fryer for one or two people (and why the big ones are wrong)",
+      "summary": "Capacity, drawer shape and the wattage trap: choosing an air fryer sized for one or two people rather than a family.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-robot-vacuum-for-pet-hair",
+      "title": "Best robot vacuum for pet hair (and the spec that actually matters)",
+      "summary": "Brush type, bin size and dock height: what genuinely decides whether a robot vacuum copes with pet hair.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-desk-chair-under-200",
+      "title": "Best desk chair under $200 (and the three features worth paying for)",
+      "summary": "Lumbar support, adjustable depth and a mesh back: what actually matters in a budget desk chair.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-coffee-grinder-for-filter-coffee",
+      "title": "Best coffee grinder for filter coffee (and why blade grinders are a trap)",
+      "summary": "Burr versus blade, and which grind adjustment actually matters for filter coffee.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-cheap-standing-desk",
+      "title": "Best cheap standing desk (and the spec that decides whether it wobbles)",
+      "summary": "Lift mechanism, weight capacity and the wobble test: choosing a budget sit-stand desk that is actually usable.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-dehumidifier-for-a-basement",
+      "title": "Best dehumidifier for a basement (and how to size it properly)",
+      "summary": "Pint capacity, temperature range and drainage: sizing a dehumidifier for a basement rather than guessing.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-electric-kettle-for-tea",
+      "title": "Best electric kettle for tea (and the temperature feature worth having)",
+      "summary": "Variable temperature, spout shape and capacity: choosing a kettle for tea rather than for speed.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-budget-monitor-for-working-from-home",
+      "title": "Best budget monitor for working from home (and what to ignore)",
+      "summary": "Resolution, panel type and stand adjustability: what actually matters in a budget work monitor.",
+      "date": "2026-10-10"
+    },
+    {
+      "slug": "best-refurbished-laptop-for-students",
+      "title": "Best refurbished laptop for students (and the two specs that matter)",
+      "summary": "Business-laptop refurbs, RAM and battery health: how to buy a used laptop that lasts a degree.",
+      "date": "2026-10-10"
+    }
+  ]
+}
